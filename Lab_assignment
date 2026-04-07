@@ -1,0 +1,200 @@
+Data Visualization Lab Assignment
+Duration: 1 Hour
+Objective: Choose the correct visualization, implement it, and explain your reasoning
+
+Instructions
+Use Python (Matplotlib/Seaborn) or Excel
+For each question:
+Create a suitable visualization
+Add Title, X-label, Y-label (if needed)
+Write:
+Reason (Why you selected this chart)
+Conclusion (What the graph shows)
+Do NOT copy from others
+Do NOT ask which chart to use
+
+Question 1: Student Performance
+Subject	Marks
+Math	88
+Physics	74
+Chemistry	81
+English	69
+CS	92
+Tasks:
+
+Create visualization
+Write reason
+Write one conclusion
+
+Question 2: Product Sales (Long Names)
+Product	Sales
+Wireless Keyboard	120
+Gaming Mouse	95
+USB-C Hub	150
+Laptop Stand	110
+Monitor Light	80
+Tasks:
+
+Create visualization
+Write reason
+Why is this better than another possible chart?
+
+Question 3: Weekly Visitors
+Day	Visitors
+Mon	120
+Tue	150
+Wed	170
+Thu	160
+Fri	200
+Sat	230
+Sun	210
+Tasks:
+
+Create visualization
+Identify the trend
+Which day has highest and lowest visitors?
+
+Question 4: Rainfall Data (Dates)
+
+Date	Rainfall
+01-Apr	5
+02-Apr	8
+03-Apr	12
+04-Apr	4
+05-Apr	10
+06-Apr	15
+07-Apr	9
+Tasks:
+
+Create visualization
+Why is time important in this data?
+
+Question 5: Monthly Budget
+Category	Amount
+Food	15000
+Rent	30000
+Transport	5000
+Study	7000
+Other	3000
+Tasks:
+
+Create visualization
+Which category is dominant?
+Why is this chart suitable?
+
+Question 6: Department Sales
+Month	Electronics	Clothes	Grocery
+Jan	20	15	25
+Feb	25	18	28
+Mar	30	20	26
+Apr	28	22	30
+May	35	25	32
+Tasks:
+
+Create visualization
+Show contribution of each category
+Identify highest overall month
+
+Question 7: Marks Distribution
+Data:
+45, 50, 55, 60, 60, 65, 70, 70, 75, 80, 85, 85, 90, 95, 100
+
+Tasks:
+
+Create visualization
+Explain distribution pattern
+Are most students high or average?
+
+Question 8: Study vs Marks
+Study Hours	Marks
+1	35
+2	42
+3	50
+4	58
+5	65
+6	72
+7	80
+8	88
+Tasks:
+
+Create visualization
+Is there a relationship?
+Describe it in 1–2 lines
+
+Question 9: Multi-variable Data
+Hours	Attendance	Marks	Sleep
+2	60	40	5
+3	65	48	6
+4	70	55	6
+5	75	63	7
+6	80	70	7
+7	85	78	8
+Tasks:
+
+Create visualization
+Which variables are strongly related?
+Explain briefly
+Question 10: Class Performance
+Class	Math	English	CS	Science
+A	78	70	85	80
+B	82	68	88	76
+C	75	72	90	84
+D	80	74	87	79
+Tasks:
+
+Create visualization
+Which class is best overall?
+Which subject is strongest?
+Question 11: Boys vs Girls Marks
+Gender	Marks
+Boys	68
+Boys	72
+Boys	75
+Boys	70
+Girls	78
+Girls	82
+Girls	80
+Girls	85
+Tasks:
+
+Create visualization
+Compare both groups
+Which group performs better?
+
+Question 12: Group Comparison
+Group	Marks
+A	60
+A	62
+A	65
+A	68
+A	70
+B	75
+B	78
+B	80
+B	83
+B	85
+Tasks:
+
+Create visualization
+Compare distributions
+Which group has higher consistency?
+Question 13: Website Growth
+Month	Visits
+Jan	1000
+Feb	1200
+Mar	1400
+Apr	1600
+May	1900
+Jun	2200
+Tasks:
+
+Create visualization
+Describe growth pattern
+Is growth steady or rapid?
+Bonus Question (Very Important)
+A student used a pie chart to show daily temperature changes.
+
+Question:
+
+Is this correct?
+Explain why or why not
